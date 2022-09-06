@@ -31,7 +31,7 @@ msgstr "Web sitesini ziyaret et"
 
 #: src/Configs/Strings.vala:31
 msgid "Photos from Unsplash: Beautiful Free Images & Pictures 🎁"
-msgstr "Unsplash Fotoğrafları: Birbirinden Güzel Ücretsiz Görüntüler 🎁"
+msgstr "Unsplash Fotoğrafları: Birbirinden Güzel Ücretsiz Görüntü & Resimler 🎁"
 
 #: src/Configs/Strings.vala:32
 msgid "Photo by "
@@ -200,7 +200,7 @@ msgstr "Detaylar"
 
 #: src/Configs/Strings.vala:73
 msgid "Visit profile"
-msgstr "Profili incele"
+msgstr "Profili ziyaret et"
 
 #: src/Configs/Strings.vala:74
 msgid "Total results"
@@ -232,24 +232,24 @@ msgstr "Dikey"
 
 #: src/Configs/Strings.vala:81
 msgid "Any"
-msgstr "Karışık"
+msgstr "Herhangi"
 
 #: src/Configs/Strings.vala:82
 msgid "Delete a photo from history"
-msgstr ""
+msgstr "Fotorafı geçmişten sil"
 
 #: src/Configs/Strings.vala:83
 msgid "Are you sure you want to delete the photo from history?"
-msgstr ""
+msgstr "Bu fotoğrafı geçmişten silmek istediğinize emin misiniz?"
 
 #: src/Configs/Strings.vala:84
 #, fuzzy
 msgid "Wallpaper Slideshow"
-msgstr "Duvar kâğıdı hazır!"
+msgstr "Duvar kâğıdı slayt gösterisi hazır!"
 
 #: src/Configs/Strings.vala:85
 msgid "Preparing slideshow ..."
-msgstr ""
+msgstr "Slayt gösterisi hazırlanıyor"
 
 #: src/Configs/Strings.vala:86
 msgid "Select a period of time to change the wallpaper in the slideshow."
@@ -259,26 +259,26 @@ msgstr ""
 msgid ""
 "You can change the photo to use on the lock screen by clicking on one of the "
 "selected photos."
-msgstr ""
+msgstr ""Seçilen fotoğraflardan" birine tıklayarak kilit ekranında kullanmak üzere fotoğrafı değiştirebilirsiniz."
 
 #: src/Configs/Strings.vala:88
 #, fuzzy
 msgid "Use on lock screen"
-msgstr "Tam ekrandan çık"
+msgstr "Kilit ekranında kullan"
 
 #: src/Configs/Strings.vala:89
 msgid "Add at least two photos"
-msgstr ""
+msgstr "En az iki fotoğraf ekle"
 
 #: src/Configs/Strings.vala:90
 #, c-format
 msgid "%d photos selected"
-msgstr ""
+msgstr "%d fotoğraf seçildi"
 
 #: src/Configs/Strings.vala:91
 #, c-format
 msgid "%d photo selected"
-msgstr ""
+msgstr "%d fotoğraf seçildi"
 
 #: src/Configs/Strings.vala:92
 msgid "Select 1 or more photos by clicking on "
@@ -292,97 +292,97 @@ msgstr "Duvar kâğıdı hazır!"
 #: src/Configs/Strings.vala:94
 #, c-format
 msgid "Enjoy a new beautiful wallpaper every %s"
-msgstr ""
+msgstr "Her %s yeni, güzel duvarkağıtları ile eğlen"
 
 #: src/Configs/Strings.vala:95
 msgid "30 minutes"
-msgstr ""
+msgstr "30 dakika"
 
 #: src/Configs/Strings.vala:96
 msgid "1 hour"
-msgstr ""
+msgstr "1 saat"
 
 #: src/Configs/Strings.vala:97
 msgid "1 day"
-msgstr ""
+msgstr "1 gün"
 
 #: src/Configs/Strings.vala:98
 msgid "Generate!"
-msgstr ""
+msgstr "Oluştur!"
 
 #: src/Configs/Strings.vala:99
 msgid "Error on generate slideshow"
-msgstr ""
+msgstr "Slayt gösterisi oluşturulurken hata"
 
 #: src/Configs/Strings.vala:100
 msgid "Error"
-msgstr ""
+msgstr "Hata"
 
 #: src/Configs/Strings.vala:101
 msgid "Download photo"
-msgstr ""
+msgstr "Fotoğrafı indir"
 
 #: src/Configs/Strings.vala:102
 msgid "Downloading ..."
-msgstr ""
+msgstr "İndiriliyor..."
 
 #: src/Configs/Strings.vala:103
 msgid "Show in File Browser"
-msgstr ""
+msgstr "Dosya tarayıcısında göster"
 
 #: src/Configs/Strings.vala:104
 msgid "JPEG images"
-msgstr ""
+msgstr "JPEG görüntüleri"
 
 #: src/Configs/Strings.vala:105
 msgid "Save photo"
-msgstr ""
+msgstr "Fotoğrafı kaydet"
 
 #: src/Configs/Strings.vala:106
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: src/Configs/Strings.vala:107
 msgid "Cancel"
-msgstr ""
+msgstr "İptal"
 
 #: src/Configs/Strings.vala:108
 msgid "Share photo"
-msgstr ""
+msgstr "Fotoğraf paylaş"
 
 #: src/Configs/Strings.vala:109
 #, c-format
 msgid "The link %s has been copied to the clipboard!"
-msgstr ""
+msgstr "%s bağlantısı panoya kopyalandı!"
 
 #: src/Configs/Strings.vala:110
 msgid "Orientation"
-msgstr ""
+msgstr "Oryantasyon"
 
 #: src/Configs/Strings.vala:111
 msgid "results"
-msgstr ""
+msgstr "sonuçlar"
 
 #: src/Configs/Strings.vala:112
 msgid "Gallery"
-msgstr ""
+msgstr "Galeri"
 
 #: src/Configs/Strings.vala:113
 msgid "Dark"
-msgstr ""
+msgstr "Koyu"
 
 #: src/Configs/Strings.vala:114
 msgid "Light"
-msgstr ""
+msgstr "Açık"
 
 #: src/Configs/Strings.vala:115
 msgid "Follow system"
-msgstr ""
+msgstr "Takip sistemi"
 
 #: src/Configs/Strings.vala:116
 msgid "Close settings"
-msgstr ""
+msgstr "Ayarları kapat"
 
 #: src/Configs/Strings.vala:117
 msgid "Visual style"
-msgstr ""
+msgstr "Görsel stil"
